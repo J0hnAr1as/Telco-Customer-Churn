@@ -1,4 +1,5 @@
 Descripción del Proyecto: Predictor de Churn de Clientes Telco
+
 Este proyecto consiste en el desarrollo de una Aplicación Web Interactiva para la predicción de la tasa de abandono de clientes (Churn) en la industria de las telecomunicaciones, utilizando modelos de Machine Learning.
 
 La solución está diseñada para ser funcional, fácilmente desplegable y cumple con los requisitos técnicos de un proyecto de ciencia de datos operacionalizado.
